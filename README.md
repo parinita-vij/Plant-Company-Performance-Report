@@ -26,3 +26,9 @@ One interesting finding was that even when the quantity sold increased, the prof
 **-KPI Cards:** Give a quick summary of overall performance
 
 This project helped me understand how to look beyond just sales numbers and focus more on profitability and performance drivers, which is really important for making better business decisions.
+
+
+**FINAL OUTPUT**
+
+
+
