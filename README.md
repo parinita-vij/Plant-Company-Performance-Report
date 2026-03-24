@@ -4,25 +4,25 @@ One interesting finding was that even when the quantity sold increased, the prof
 
 **Key Performance Indicators (KPIs):**
 
-**YTD** (Year-to-Date): Total performance for the selected year
+**-YTD** (Year-to-Date): Total performance for the selected year
 
-**PYTD** (Previous Year-to-Date): Used to compare with the previous year
+**-PYTD** (Previous Year-to-Date): Used to compare with the previous year
 
-**YTD vs PYTD:** Shows whether performance improved or declined
+**-YTD vs PYTD:** Shows whether performance improved or declined
 
-**GP% (Gross Profit %):** Helps understand how profitable the sales are
+**-GP% (Gross Profit %):** Helps understand how profitable the sales are
 
 **Visualizations Used:**
 
 
-**Treemap** (Bottom 10 Countries): Helps identify countries that are underperforming
+**-Treemap** (Bottom 10 Countries): Helps identify countries that are underperforming
 
-**Waterfall Chart:** Shows how each month contributes to overall increase or decrease in performance
+**-Waterfall Chart:** Shows how each month contributes to overall increase or decrease in performance
 
-**Bar + Line Chart:** Compares current year vs previous year trends across months and product categories
+**-Bar + Line Chart:** Compares current year vs previous year trends across months and product categories
 
-**Scatter Plot:** Segments customers based on value and profitability to identify key and low-performing accounts
+**-Scatter Plot:** Segments customers based on value and profitability to identify key and low-performing accounts
 
-**KPI Cards:** Give a quick summary of overall performance
+**-KPI Cards:** Give a quick summary of overall performance
 
 This project helped me understand how to look beyond just sales numbers and focus more on profitability and performance drivers, which is really important for making better business decisions.
